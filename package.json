@@ -1,0 +1,20 @@
+{
+  "name": "ejercicioclaseabstract",
+  "version": "1.0.0",
+  "description": "Ejercicio clase abstract",
+  "main": "index.js",
+  "scripts": {
+    "convertir": "tsc main.ts",
+    "ejecutar": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarianoCarbajo/EjercicioClaseAbstract.git"
+  },
+  "author": "Mariano Carbajo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarianoCarbajo/EjercicioClaseAbstract/issues"
+  },
+  "homepage": "https://github.com/MarianoCarbajo/EjercicioClaseAbstract#readme"
+}
